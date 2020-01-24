@@ -1,0 +1,2 @@
+# Hidden Secret
+This repository contains a hidden [commit](https://github.com/dacappo/hidden-secret/commit/11c0cacdeb2a8bfd92cb7ef3e648911b11de6da2), that contains an exemplary secret. This hidden commit so not referenced by any git ref due to a rebase on master. The rebase dropped the commit from the master branche's history, but the commit can still be foundin the git database, when its SHA (11c0cacdeb2a8bfd92cb7ef3e648911b11de6da2) is known.
